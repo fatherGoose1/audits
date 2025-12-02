@@ -1,5 +1,5 @@
 ## Django, Security Researcher and Bug Bounty Hunter
-Hi, I'm 0xDjango (real name Parker). I've been auditing and developing smart contracts since 2021. I am a former Lead Security Reseracher at Guardian Audits and currently lead the team at [https://www.birdseye.gg](Birdseye Security).
+Hi, I'm 0xDjango (real name Parker). I've been auditing and developing smart contracts since 2021. I am a former Lead Security Reseracher at Guardian Audits and currently lead the team at [Birdseye Security](https://www.birdseye.gg).
 
 In 2022, I started competing in Code4rena contests and quickly racked up some contest wins. I switched to bug bounty hunting and became a top hunter on Immunefi, reporting multiple High and Critical vulnerabilities and saving at-risk funds in the process.
 
@@ -9,7 +9,7 @@ In late 2022, I built The Saloon (sunsetted), a Web3 bug bounty program program 
 
 Following Flexy, I became a Lead Security Researcher at Guardian Audits. In this role, I led reviews, maintained client communications, and managed the security team.
 
-Notable highlights:
+**Notable highlights**
 - 4 - 1st place public contest finishes
 - Top 50 Immunefi researcher with 29 paid reports
   - Saved $14 million from direct theft across multiple critical severity vulnerabilities
